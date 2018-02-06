@@ -1,0 +1,92 @@
+鼻子,nose
+眼睛,eye
+耳朵,ear
+手,hand
+母亲,mother
+父亲,father
+牛奶,milk
+一,one
+爸爸,dad
+高的,tall
+头,head
+二,two
+妈妈,mum
+矮的,short
+脸,face
+三,three
+父亲,father
+长的,long
+眼睛,eye
+四,four
+短的,short
+头发,hair
+五,five
+兄弟,brother
+小的,small
+六,six
+姐妹,sister
+大的,big
+鼻子,nose
+七,seven
+爷爷,grandfather
+胖的,fat
+嘴巴,mouth
+八,eight
+奶奶,grandmother
+瘦的,thin
+铅笔,pencil
+九,nine
+老鼠,mouse
+钢笔,pen
+十,ten
+猫,cat
+谁,who
+尺子,ruler
+你好,hello
+狗,dog
+什么,what
+书本,book
+很好,fine
+好,good
+兔子,rabbit
+在哪里,where
+书包,shoolbag
+谢谢,thank you
+鱼,fish
+怎么样,how
+床,bed
+再见,goodbye
+尾巴,tail
+多少钱,how much
+椅子,chair
+苹果,apple
+小姐,Miss
+多少个,how many
+看黑板,look at the blackboard
+香蕉,banana
+先生,Mr
+季节,season
+擦桌子,clean the desk
+桔子,orange
+女士,Mrs
+春,spring
+扫地,clean the floor
+梨子,pear
+男孩,boy
+夏,summer
+开门,open the door
+这个,this
+女孩,girl
+秋,autumn
+关门,close the door
+那个,that
+朋友,friend
+冬,winter
+穿鞋,put on my shoes
+这些,these
+凉爽,cool
+冷,cold
+迟到,be late for
+那些,those
+温暖,warm
+热,hot 
