@@ -38,8 +38,8 @@ def get_user_input():
     print("-^-" * 12)
     user_input = int(input("你想做什么题: "))
     while user_input > 8 or user_input <= 0:
-        print("Invalid menu option.")
-        user_input = int(input("Please try again: "))
+        print("无效选项！")
+        user_input = int(input("再试一次: "))
     else:
         return user_input
 
